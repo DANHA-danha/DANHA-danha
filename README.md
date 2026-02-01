@@ -38,7 +38,7 @@
 
 | Project name | Languages | Made via | Period |
 |---|---|---|---|
-| [팀프로젝트 - 서울 카페 생존 분석을 통한 상권 분석 시스템]()| Python | Visual Studio Code | 2026.01. ~ Present |
+| [팀프로젝트 - 서울 카페 생존 분석을 통한 상권 분석 시스템](https://github.com/DANHA-danha/team_project_brew_map)| Python | Visual Studio Code | 2026.01. ~ Present |
 | [팀프로젝트 - 나만의 AI 금융 코치](https://github.com/DANHA-danha/team_project_moni.git) | Python | Visual Studio Code | 2025.11. ~ 2026.01. |
 | [공모전 - LSTM을 활용한 품목별 수요 예측 모델링](https://github.com/DANHA-danha/Contest.git) | Python | Google Colab | 2025.09. ~ 2025.10. |
 
