@@ -39,7 +39,7 @@
 | Projec name| Role | Made via | Period |
 |---|---|---|---|
 | [개인프로젝트 - 토지 개발 적합도 분석](https://github.com/DANHA-danha/land_analysis.git) | ML Modeling | Jupyter Notebook | 2026.02.|
-| [팀프로젝트 - 서울 바나프레소 입지 적합도 분석](https://github.com/DANHA-danha/bana_map_team_repo)| ML, Web Crawling  | Visual Studio Code | 2026.01. ~ Present |
+| [팀프로젝트 - 서울 바나프레소 입지 적합도 분석](https://github.com/DANHA-danha/DANHA-danha-bana_map_team_repo)| ML, Web Crawling  | Visual Studio Code | 2026.01. ~ Present |
 | [팀프로젝트 - 나만의 AI 금융 코치](https://github.com/DANHA-danha/team_project_moni.git) | ML,  Backend, Frontend | Visual Studio Code | 2025.11. ~ 2026.01. |
 | [공모전 - LSTM을 활용한 품목별 수요 예측 모델링](https://github.com/DANHA-danha/Contest.git) | Deep Learning | Google Colab | 2025.09. ~ 2025.10. |
 
