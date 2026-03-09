@@ -36,13 +36,20 @@
 
 ### Projects
 
-| Projec name| Role | Made via | Period |
+| Projec name | Role | Made via | Period |
 |---|---|---|---|
 | [개인프로젝트 - 토지 개발 적합도 분석](https://github.com/DANHA-danha/land_analysis.git) | ML Modeling | Jupyter Notebook | 2026.02.|
 | [팀프로젝트 - 바나프레소 신규 입점 입지 추천 시스템](https://github.com/DANHA-danha/DANHA-danha-bana_map_team_repo)| ML, Web Crawling  | Visual Studio Code | 2026.01. ~ 2026.03 |
 | [팀프로젝트 - 나만의 AI 금융 코치](https://github.com/DANHA-danha/team_project_moni.git) | ML,  Backend, Frontend | Visual Studio Code | 2025.11. ~ 2026.01. |
 | [공모전 - LSTM을 활용한 품목별 수요 예측 모델링](https://github.com/DANHA-danha/Contest.git) | Deep Learning | Google Colab | 2025.09. ~ 2025.10. |
 
-
+<br>
 <br>
 
+### Business Analysis
+
+| Analysis name | Content | Made via | Period |
+|---|---|---|---|
+| [BUSINESS_ANALYSIS_Adelium ](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Adelium.git) | 입지 분석 기반 사업계획서 | PowerPoint | 2021.08.|
+| [BUSINESS_ANALYSIS_Central](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Central.git)| 입지 분석 기반 사업계획서 | PowerPoint | 2021.12.|
+| [BUSINESS_ANALYSIS_Local_housing_association](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Bongseon.git) | 입지 분석 기반 사업계획서 | PowerPoint | 2023.12.|
