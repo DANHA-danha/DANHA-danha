@@ -55,6 +55,6 @@
 
 | Analysis name | Content | Made via | Period |
 |---|---|---|---|
-| [BUSINESS_ANALYSIS_Adelium ](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Adelium.git) | 입지 분석 기반 사업계획서 | PowerPoint | 2021.08.|
-| [BUSINESS_ANALYSIS_Central](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Central.git)| 입지 분석 기반 사업계획서 | PowerPoint | 2021.12.|
 | [BUSINESS_ANALYSIS_Local_housing_association](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Bongseon.git) | 입지 분석 기반 사업계획서 | PowerPoint | 2023.12.|
+| [BUSINESS_ANALYSIS_Central](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Central.git)| 입지 분석 기반 사업계획서 | PowerPoint | 2021.12.|
+| [BUSINESS_ANALYSIS_Adelium ](https://github.com/DANHA-danha/BUSINESS_ANALYSIS_Adelium.git) | 입지 분석 기반 사업계획서 | PowerPoint | 2021.08.|
