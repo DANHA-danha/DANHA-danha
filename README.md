@@ -40,7 +40,7 @@
 
 | Project name | Role | Made via | Period |
 |---|---|---|---|
-| [사내 데이터분석 경진대회 - 신용정보 기반 타겟 마케팅 예측 모델 개발]() | ML Modeling | Jupyter Notebook | 2026.06. ~ 2026.07.|
+| [사내 데이터분석 경진대회 - 신용정보 기반 타겟 고객 예측]() | ML Modeling | Jupyter Notebook | 2026.06. ~ 2026.07.|
 | [사내 개발 경진대회 - 데이터 분석 보고서 자동 생성 플랫폼](https://github.com/DANHA-danha/DANA.git) | Backend, Frontend | Visual Studio Code | 2026.05. ~ 2026.06.|
 | [개인프로젝트 - 토지 개발 적합도 분석](https://github.com/DANHA-danha/land_analysis.git) | ML Modeling | Jupyter Notebook | 2026.02.|
 | [팀프로젝트 - 바나프레소 신규 입점 입지 추천 시스템](https://github.com/DANHA-danha/DANHA-danha-bana_map_team_repo)| ML, Web Crawling  | Visual Studio Code | 2026.01. ~ 2026.03 |
