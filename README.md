@@ -40,6 +40,7 @@
 
 | Project name | Role | Made via | Period |
 |---|---|---|---|
+| [Excel VBA 기반 정산 업무 자동화 - 수수료 정산 및 채권 관리 자동화]() | Excel VBA Automation | Microsoft Excel | 2026.10.|
 | [사내 데이터 분석 경진대회 - 신용정보 기반 타겟 고객 예측](https://github.com/DANHA-danha/NASA-challenge.git) | ML Modeling | Jupyter Notebook | 2026.06. ~ 2026.07.|
 | [사내 개발 경진대회 - 데이터 분석 보고서 자동 생성 플랫폼](https://github.com/DANHA-danha/DANA.git) | Backend, Frontend | Visual Studio Code | 2026.05. ~ 2026.06.|
 | [개인프로젝트 - 토지 개발 적합도 분석](https://github.com/DANHA-danha/land_analysis.git) | ML Modeling | Jupyter Notebook | 2026.02.|
