@@ -40,6 +40,7 @@
 
 | Project name | Role | Made via | Period |
 |---|---|---|---|
+| [개인프로젝트 - 글로벌 주식·경제 분석 플랫폼]() | Backend, Frontend | Visual Studio Code | 2026.11.|
 | [개인프로젝트 - 서울 내 집 마련 계산 웹페이지](https://github.com/DANHA-danha/Real_Estate_Lab.git) | Backend, Frontend | Visual Studio Code | 2026.11.|
 | [정산 업무 자동화 - 수수료 정산 및 채권 관리 자동화](https://github.com/DANHA-danha/Settlement-Process-Automation.git) | Excel VBA Automation | Microsoft Excel | 2026.10.|
 | [사내 데이터 분석 경진대회 - 신용정보 기반 타겟 고객 예측](https://github.com/DANHA-danha/NASA-challenge.git) | ML Modeling | Jupyter Notebook | 2026.06. ~ 2026.07.|
