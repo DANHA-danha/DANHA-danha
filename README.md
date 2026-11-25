@@ -40,6 +40,7 @@
 
 | Project name | Role | Made via | Period |
 |---|---|---|---|
+| [건설사 부실 조기경보 - PF 리스크 스코어링]() | ML Modeling | Visual Studio Code | 2026.11~|
 | [부서 매출 업무 자동화 - 매출 정산 및 분석 대시보드](https://github.com/DANHA-danha/Revenue-Settlement-Automation.git) | Excel VBA Automation | Microsoft Excel | 2026.11.|
 | [개인프로젝트 - 글로벌 주식·경제 분석 웹페이지](https://github.com/DANHA-danha/GLOBAL-STOCK-INTELLIGENCE.git) | Backend, Frontend | Visual Studio Code | 2026.11.|
 | [개인프로젝트 - 서울 내 집 마련 계산 웹페이지](https://github.com/DANHA-danha/Real_Estate_Lab.git) | Backend, Frontend | Visual Studio Code | 2026.10.|
